@@ -1,0 +1,14 @@
+package com.zyang62.rpn
+
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+
+
+class RpnCalculatorTest{
+    @Test
+    public void testProvidedExamples(){
+        RpnCalculator rpnCalculator = new RpnCalculator();
+
+    }
+}
