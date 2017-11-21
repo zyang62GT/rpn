@@ -7,8 +7,4 @@ public class Operation {
         this.operator = operator;
         this.value = value;
     }
-
-    public String getReverseOperation() throws RpnCalculatorException{
-        return operator;
-    }
 }
